@@ -1,0 +1,5 @@
+{
+  "name": "Pombo Bank",
+  "description": "A high-performance, dark-themed personal finance dashboard with Bento Grid layout, real-time analytics, and transaction management.",
+  "requestFramePermissions": []
+}
